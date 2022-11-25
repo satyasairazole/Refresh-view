@@ -1,21 +1,7 @@
 <?PHP
 
 
-  /*session_start();
- 
-  if(isset($a)){
-	  
-     //$_SESSION['views'] = $_SESSION['views']+ 1;
-	 $myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
-		$txt =  $a++;
-		fwrite($myfile, $txt);
-
-		fclose($myfile);
-  }else{
-     $a = 1;
-	 
-  }
-  echo "Total page views = ". $a;*/
+  
   
     
   
